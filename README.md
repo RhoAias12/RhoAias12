@@ -20,7 +20,7 @@
 * **[Tjoeun-Academy-Board]([링크주소])**
     * **Description:** 사용자 인증 및 게시글 관리 등 MVC 아키텍처 기반의 웹 게시판 구현
     * **Keywords:** `Java`, `JSP/Servlet`, `MySQL`
-* **[Surfing-App-Project]([링크주소])**
+* **[Surfing-App-Project](https://github.com/RhoAias12/Surfing-App-Project.git)**
     * **Description:** 실시간 서핑 환경 데이터 연동 및 커뮤니티 기능을 포함한 애플리케이션 개발
     * **Keywords:** `Mobile App`, `Firebase`, `API`
 * **[Project_tjeoun]([링크주소])**
