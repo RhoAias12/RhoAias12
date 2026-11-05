@@ -26,3 +26,8 @@
 * **[쇼핑몰 운영 프로세스 자동화](https://github.com/RhoAias12/n8n-Automating-shopping-mall-operations.git)**
     * **Description:** 1인 사업자의 과중한 반복 업무(매입·판매·영업) 부하를 해소하고, 모바일 환경에서 주문부터 알림까지 원스톱으로 처리 가능한 자동화 시스템 구축
     * **Keywords:** `n8n`, `Baserow`, `Google Workspace(Sheets, Forms, Gmail)`, `JavaScript`
+
+### AI Application(LLM·RAG)
+* **[문서 근거 질의응답 RAG 챗봇(RAG-Mini)](https://github.com/RhoAias12/RAG-Mini.git)**
+    * **Description:** 팀 캡스톤 보고서를 근거로 답하고 근거 조각·유사도·출처를 함께 보여 주는 CLI 챗봇. 직접 설계한 20문항으로 평가해 정답 17개(85%)를 확인하고, 오답 3건의 원인을 검색·생성 단계로 나눠 분석
+    * **Keywords:** `Python`, `Gemini API`, `RAG`, `NumPy`, `Claude Code`
